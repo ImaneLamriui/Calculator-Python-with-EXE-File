@@ -4,7 +4,7 @@ Primera versión oficial de la app.
 Esta calculadora fue creada con Python y PyInstaller.
 Para usarla, solo descarga el archivo .exe de abajo y ejecútalo. No necesitas instalar nada más.
 SHA-256 (verificado por GitHub):
-6eb1d8cae36bc444... ← (visible al lado del archivo)
+sha256:6eb1d8cae36bc44467d6b0a6bebceff4aac1cd5b77e43d6fe8e19a8b8aad5199
 Si tu navegador bloquea la descarga, marca como "Confiar" (es normal con archivos .exe nuevos).
 
 <h3>This is a calculator application, include the executable file .exe, GENERATED, to run the application in any operating system including or not python installed</h3>
